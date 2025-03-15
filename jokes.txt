@@ -1,0 +1,12 @@
+ 
+PS C:\Users\sebas\Documents\Outlier\javascript\llama3.3 codes\Llama3.3Javascript> node .js
+Why don't scientists trust atoms? Because they make up everything!
+PS C:\Users\sebas\Documents\Outlier\javascript\llama3.3 codes\Llama3.3Javascript> node .js
+Why don't scientists trust atoms? Because they make up everything!
+PS C:\Users\sebas\Documents\Outlier\javascript\llama3.3 codes\Llama3.3Javascript> node .js
+Why did the tomato turn red? Because it saw the salad dressing!
+PS C:\Users\sebas\Documents\Outlier\javascript\llama3.3 codes\Llama3.3Javascript> node .js 
+Why did the tomato turn red? Because it saw the salad dressing!
+PS C:\Users\sebas\Documents\Outlier\javascript\llama3.3 codes\Llama3.3Javascript> node .js
+Why did the tomato turn red? Because it saw the salad dressing!
+PS C:\Users\sebas\Documents\Outlier\javascript\llama3.3 codes\Llama3.3Javascript> 
